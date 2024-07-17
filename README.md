@@ -8,7 +8,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -148,7 +147,7 @@ The DNS network protocol gives you the IP address of a domain name like for exam
 <img src="https://i.imgur.com/matK5pS.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The last network protocol is RDP and this protocol essentially tracks every live action you are doing on your computer so let's say I am on youtube it tracks that if my files are open it tracks that also. So this is it for Tracking certain network protocols on Wireshark, and configuring Azure firewall rules on a virtual machine and learning some new commands as well. I hope this was clear and easy to understand. Good bye!
+The last network protocol is RDP and this protocol essentially tracks every live action you are doing on your computer so let's say I am on youtube it tracks that if my files are open it tracks that also. So this is it for tracking certain network protocols on Wireshark, and configuring Azure firewall rules on a virtual machine and learning some new commands as well. I hope this was clear and easy to understand. Good bye!
 </p>
 <br />
 
